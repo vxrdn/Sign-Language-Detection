@@ -1,0 +1,21 @@
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg-info/
+__pycache__/
+.idea/
+.vscode/
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+# Virtual environment
+venv/
+.venv
+env/
+.env
+MP_Data/
+Logs/
+*.h5
